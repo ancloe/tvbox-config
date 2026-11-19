@@ -1,0 +1,94 @@
+{
+  "sites": [
+    {
+      "key": "sotvla",
+      "name": "搜TV啦",
+      "type": 3,
+      "api": "./py/sotvla.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "souju_ai",
+      "name": "搜剧AI",
+      "type": 3,
+      "api": "./py/souju_ai.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "shijue_yingshi",
+      "name": "视觉影视",
+      "type": 3,
+      "api": "./py/shijue_yingshi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "sudugu",
+      "name": "速读谷",
+      "type": 3,
+      "api": "./py/sudugu.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "shouying",
+      "name": "首映网",
+      "type": 3,
+      "api": "./py/shouying.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "shiliu_duanju",
+      "name": "石榴短剧",
+      "type": 3,
+      "api": "./py/shiliu_duanju.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "shuabu_ting_duanju",
+      "name": "刷不停短剧",
+      "type": 3,
+      "api": "./py/shuabu_ting_duanju.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "shouji_yingyuan",
+      "name": "手机影院（短剧网）",
+      "type": 3,
+      "api": "./py/shouji_yingyuan.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    }
+  ],
+  "parses": [],
+  "flags": []
+}
